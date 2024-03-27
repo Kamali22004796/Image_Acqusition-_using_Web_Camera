@@ -1,4 +1,4 @@
-![309529539-117d9e88-73dc-4389-855b-1bbb9fc627ef](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/5bdef90d-b69b-496c-9745-44be2786eb3c)# Image_Acqusition-_using_Web_Camera
+
 ## Aim
  
 Aim:
