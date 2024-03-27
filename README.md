@@ -109,14 +109,9 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![312689231-dd014573-9828-4cd2-a37c-633c95763550](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/8c147d17-3048-4983-9e4c-0d0dcf8a741b)
-
-
-
+![Screenshot 2024-03-27 104142](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/07ccf2b1-b794-4b9c-991c-9eb1a508da05)
 
 ### ii) Display the video
-
-![312689280-61ab2e72-b69a-4740-9f3c-f5962ce08365](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/a893b2df-56b8-4ad6-b7d6-a1fb6c7b5cdb)
 
 
 
