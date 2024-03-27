@@ -1,4 +1,4 @@
-# Image_Acqusition-_using_Web_Camera
+![309529539-117d9e88-73dc-4389-855b-1bbb9fc627ef](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/5bdef90d-b69b-496c-9745-44be2786eb3c)# Image_Acqusition-_using_Web_Camera
 ## Aim
  
 Aim:
@@ -112,22 +112,18 @@ cv2.destroyAllWindows()
 ![Screenshot 2024-03-27 104142](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/63b2b8ad-a6f0-4cca-ade4-46ae25164141)
 
 ### ii) Display the video
+![309529523-9b69cdfa-bcfb-47b9-90a7-999eeed92611](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/df972618-d7ee-4173-910e-d58191afe151)
 
 
 
 ### iii) Display the video by resizing the window
 
-![312689307-eaf8fdfd-b98a-4ae6-89b7-7a4ba6167be3](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/8101c748-1fda-4f45-b841-85290c00125c)
-
-
-
+![309529527-659e9135-1380-4528-8a34-015ef481171b](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/22e92e13-fc80-4df0-94ee-8ff4b16dbf7b)
 
 
 ### iv) Rotate and display the video
 
-![312689329-b18e56aa-82f9-4785-b40d-a88ed04c701c](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/8fd4cd9f-1181-4738-a210-1ae2a1161a69)
-
-
+![309529539-117d9e88-73dc-4389-855b-1bbb9fc627ef](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/c706c65f-0a27-4670-8a72-d24de2c910ae)
 
 
 
