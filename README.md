@@ -85,7 +85,7 @@ cv2.destroyAllWindows()
 
 
 ## iv) Rotate and display the video
-
+```
 import cv2
 import numpy as np
 cap = cv2.VideoCapture(0)
@@ -109,7 +109,7 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![Screenshot 2024-03-27 104142](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/07ccf2b1-b794-4b9c-991c-9eb1a508da05)
+![Screenshot 2024-03-27 104142](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/63b2b8ad-a6f0-4cca-ade4-46ae25164141)
 
 ### ii) Display the video
 
