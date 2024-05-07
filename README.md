@@ -109,21 +109,23 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![Screenshot 2024-03-27 104142](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/63b2b8ad-a6f0-4cca-ade4-46ae25164141)
+
+![312689231-dd014573-9828-4cd2-a37c-633c95763550](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/e66fb8f6-819d-4333-a6f3-bb6afe06819c)
+
 
 ### ii) Display the video
-![309529523-9b69cdfa-bcfb-47b9-90a7-999eeed92611](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/df972618-d7ee-4173-910e-d58191afe151)
 
+![312689280-61ab2e72-b69a-4740-9f3c-f5962ce08365](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/36001f81-2f1a-4252-973f-c527c6e22062)
 
 
 ### iii) Display the video by resizing the window
 
-![309529527-659e9135-1380-4528-8a34-015ef481171b](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/22e92e13-fc80-4df0-94ee-8ff4b16dbf7b)
+![312689307-eaf8fdfd-b98a-4ae6-89b7-7a4ba6167be3](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/21da2c0e-3212-474b-8ffd-f15ec36b8ac2)
 
 
 ### iv) Rotate and display the video
 
-![309529539-117d9e88-73dc-4389-855b-1bbb9fc627ef](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/c706c65f-0a27-4670-8a72-d24de2c910ae)
+![312689329-b18e56aa-82f9-4785-b40d-a88ed04c701c](https://github.com/Kamali22004796/Image_Acqusition-_using_Web_Camera/assets/120567837/a547db69-2c78-4945-82a1-77dc8d16c44a)
 
 
 
